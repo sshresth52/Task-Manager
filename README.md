@@ -30,3 +30,21 @@ Asset Management<br>
 User Account Control<br>
    Disable or activate user accounts.
    Permanently delete or trash tasks
+
+
+#General Features:<br>
+
+Authentication and Authorization:
+
+User login with secure authentication.
+Role-based access control.
+Profile Management:
+
+Update user profiles.
+Password Management:
+
+Change passwords securely.
+Dashboard:
+
+Provide a summary of user activities.
+Filter tasks into todo, in progress, or completed.
